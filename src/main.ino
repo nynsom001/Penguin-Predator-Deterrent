@@ -26,8 +26,8 @@
 #endif
 
 // Configuration
-#define WIFI_SSID "YOUR_WIFI_SSID"
-#define WIFI_PASS "YOUR_WIFI_PASSWORD"
+#define WIFI_SSID "Siya"
+#define WIFI_PASS "********"
 #define PIR_SENSOR        13  // GPIO13
 #define IR_BEAM_SENSOR    14  // GPIO14
 #define SECOND_IR_PIN      2  // GPIO2 (NEW SECONDARY IR)
